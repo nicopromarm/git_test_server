@@ -10,7 +10,7 @@ and open the template in the editor.
         <title>GIT TEST</title>
     </head>
     <body>
-        тут был гит, а теперь загрузили с удалённого репозитория
+        тут был гит, а теперь загрузили с удалённого репозитория, последняя загрузка
         <?php
         echo "TEST_GIT";
         // put your code here
