@@ -10,6 +10,7 @@ and open the template in the editor.
         <title>GIT TEST</title>
     </head>
     <body>
+        12345
         тут был гит, а теперь загрузили с удалённого репозитория, последняя загрузка, была
         <?php
         echo "TEST_GIT";
