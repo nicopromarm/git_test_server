@@ -13,6 +13,7 @@ and open the template in the editor.
         <div> Новый блок </div>
         тут был гит, а теперь загрузили с удалённого репозитория, последняя загрузка
         <div> Новый блок 2 </div>
+        <div> Новый блок 3 </div>
         <?php
         echo "TEST_GIT";
         // put your code here
