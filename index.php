@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>GIT TEST_2</title>
     </head>
     <body>
         тут типо новые файлы и всё такое
